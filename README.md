@@ -36,6 +36,7 @@ Subscription-based companies often face high customer churn, which directly impa
 ---
 ## Project Structure
 
+```
 customer-churn-analysis-powerbi/
 │
 ├── dashboard/
@@ -52,7 +53,7 @@ customer-churn-analysis-powerbi/
 │ └── page5.png
 │
 └── README.md
-
+```
 ---
 
 ## Dashboard Structure
