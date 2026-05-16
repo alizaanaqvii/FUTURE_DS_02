@@ -21,6 +21,12 @@ Subscription-based companies often face high customer churn, which directly impa
 - Source: Kaggle  
 - Link: https://www.kaggle.com/datasets/blastchar/telco-customer-churn  
 
+## Skills Demonstrated
+- Customer churn analysis  
+- Data visualization (Power BI)  
+- DAX calculations  
+- Business insight generation  
+- Data storytelling
 
 ## Tools Used
 - Power BI (Dashboard creation)
@@ -48,6 +54,7 @@ customer-churn-analysis-powerbi/
 └── README.md
 
 ---
+
 ## Dashboard Structure
 
 The project consists of 5 key dashboard pages:
@@ -99,23 +106,32 @@ The project consists of 5 key dashboard pages:
 - Investigate pricing/service issues in Fiber optic plans
 - Promote more secure and stable payment methods for better retention  
 
-
+---
 ## Dashboard Preview
 
-- Page 1: Overview
-![Overview Dashboard](customer-churn-analysis-powerbi/screenshots/page1_overview.png)
+Page 1: Overview
 
-- Page 2: Contract & Payment Analysis
-![Contract Analysis](customer-churn-analysis-powerbi/screenshots/page2_contract.png)
+![Overview Dashboard](customer-churn-&-retention-analysis/screenshots/page1.PNG)
 
-- Page 3: Tenure Analysis
-![Tenure Analysis](customer-churn-analysis-powerbi/screenshots/page3_tenure.png)
 
-- Page 4: Service Analysis
-![Service Analysis](customer-churn-analysis-powerbi/screenshots/page4_service.png)
+Page 2: Contract & Payment Analysis
 
-- Page 5: Insights & Recommendations
-![Insights Page](customer-churn-analysis-powerbi/screenshots/page5_insights.png)
+![Contract Analysis](customer-churn-&-retention-analysis/screenshots/page2.PNG)
 
----
+
+Page 3: Tenure Analysis
+
+![Tenure Analysis](customer-churn-&-retention-analysis/screenshots/page3.PNG)
+
+
+Page 4: Service Analysis
+
+![Service Analysis](customer-churn-&-retention-analysis/screenshots/page4.PNG)
+
+
+Page 5: Insights & Recommendations
+
+![Insights Page](customer-churn-&-retention-analysis/screenshots/page5.PNG)
+
+
 
