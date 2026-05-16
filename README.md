@@ -40,17 +40,17 @@ Subscription-based companies often face high customer churn, which directly impa
 customer-churn-analysis-powerbi/
 │
 ├── dashboard/
-│ └── churn_dashboard.pbix
+│ └── customer-churn-&-retention-analysis-dashboard.pbix
 │
 ├── data/
-│ └── telco_churn.csv
+│ └── WA_Fn-UseC_-Telco-Customer-Churn.csv
 │
-├── images/
-│ ├── page1.png
-│ ├── page2.png
-│ ├── page3.png
-│ ├── page4.png
-│ └── page5.png
+├── screenshots/
+│ ├── page1.PNG
+│ ├── page2.PNG
+│ ├── page3.PNG
+│ ├── page4.PNG
+│ └── page5.PNG
 │
 └── README.md
 ```
